@@ -1,5 +1,3 @@
-
-
 public class TestPostfixExpression {
 
     public static void main(String[] args) {

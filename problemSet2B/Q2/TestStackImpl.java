@@ -1,5 +1,3 @@
-package problemSet2B.Q2;
-
 public class TestStackImpl {
 
     public static void main(String[] args) {

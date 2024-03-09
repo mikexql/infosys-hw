@@ -1,5 +1,3 @@
-package problemSet2A;
-
 //Modify the class header and implement any necessary methods
 public class Octagon implements Comparable<Octagon> {
     private double side;

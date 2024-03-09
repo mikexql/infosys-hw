@@ -1,5 +1,3 @@
-package problemSet2A;
-
 import java.util.Comparator;
 
 public class OctagonComparator implements Comparator<Octagon> {

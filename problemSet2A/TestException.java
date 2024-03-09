@@ -1,5 +1,3 @@
-package problemSet2A;
-
 public class TestException {
     //YOU DO NOT NEED TO MODIFY THIS METHOD
     public static void main(String[] args) {

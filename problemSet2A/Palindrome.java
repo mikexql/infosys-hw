@@ -1,5 +1,3 @@
-package problemSet2A;
-
 public class Palindrome {
     public static void main(String[] args) {
         char[] abba={};

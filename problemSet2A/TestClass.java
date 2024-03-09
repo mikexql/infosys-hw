@@ -1,5 +1,3 @@
-package problemSet2A;
-
 //**SEE BELOW** Add in the code for the interfaces below
 public class TestClass {
 

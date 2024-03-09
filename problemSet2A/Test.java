@@ -1,5 +1,3 @@
-package problemSet2A;
-
 public class Test{
     public static void main(String[] args) {
         AirPollutionAlert singaporeAlert = new AirPollutionAlert();

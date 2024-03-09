@@ -1,5 +1,3 @@
-package problemSet2B.Q2;
-
 import java.util.*;
 
 public class StackImpl<T> implements CustomStack<T> {

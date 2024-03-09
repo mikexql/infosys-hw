@@ -1,5 +1,3 @@
-package problemSet2A;
-
 import java.util.ArrayList;
 
 public class Permutation {

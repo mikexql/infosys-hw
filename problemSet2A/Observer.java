@@ -1,5 +1,3 @@
-package problemSet2A;
-
 //**SEE BELOW** modify AirPollutionAlert
 //Necessary Import statements here
 import java.util.ArrayList;

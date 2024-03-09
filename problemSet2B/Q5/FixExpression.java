@@ -1,5 +1,4 @@
 // COPY AND PASTE YOUR SOLUTION FROM THE PREVIOUS QUESTION HERE
-
 public abstract class FixExpression {
 
 

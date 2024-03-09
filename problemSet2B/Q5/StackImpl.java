@@ -2,8 +2,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import problemSet2B.Q2.CustomStack;
-
 public class StackImpl<T> implements CustomStack<T> {
 
     private List<T> myList;

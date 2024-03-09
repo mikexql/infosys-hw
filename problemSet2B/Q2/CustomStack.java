@@ -1,5 +1,3 @@
-package problemSet2B.Q2;
-
 /**  You do not need to modify this **/
 
 public interface CustomStack<T> {

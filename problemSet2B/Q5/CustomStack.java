@@ -1,5 +1,4 @@
-package problemSet2B.Q5;// YOU DO NOT NEED TO MODIFY THIS FILE
-
+// YOU DO NOT NEED TO MODIFY THIS FILE
 public interface CustomStack<T> {
 
     void push(T t);
