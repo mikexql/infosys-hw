@@ -1,4 +1,5 @@
 // YOU DO NOT NEED TO MODIFY THIS FILE
+
 public interface CustomStack<T> {
 
     void push(T t);
