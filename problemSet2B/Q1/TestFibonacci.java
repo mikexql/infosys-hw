@@ -1,5 +1,3 @@
-package problemSet2B.Q1;
-
 import java.util.Arrays;
 
 public class TestFibonacci {
