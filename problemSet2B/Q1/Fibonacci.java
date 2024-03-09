@@ -1,5 +1,3 @@
-package problemSet2B.Q1;
-
 public class Fibonacci {
 
     private int[] data;
