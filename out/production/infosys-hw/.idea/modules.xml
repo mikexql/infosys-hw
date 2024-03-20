@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/infosys-hw.iml" filepath="$PROJECT_DIR$/infosys-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemSet2B/problemSet2B.iml" filepath="$PROJECT_DIR$/problemSet2B/problemSet2B.iml" />
+    </modules>
+  </component>
+</project>
